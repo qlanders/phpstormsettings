@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cac2e1ef-5787-4e41-b887-1d59f17f18f5" name="avto3" url="http://avto3.ru.tex-test.ru/">
+      <webServer id="d37b32a5-97ea-4d44-9b1e-e92aace9e9ed" name="avto3" url="http://85.10.211.147">
         <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto3" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
