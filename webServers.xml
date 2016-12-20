@@ -1,64 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3e774661-24c2-4232-8890-169277730d33" name="avto2" url="http://85.10.211.147">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto2" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="8aef874d-7374-47fb-a347-a19124d58159" name="uno-service" url="http://85.10.211.147">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto4" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="bb113474-c927-44c5-9c4f-adebe612005c" name="avto3" url="http://85.10.211.147">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto3" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="95faed1a-e2a6-4435-ab02-437622fae4b4" name="variator-remont" url="http://variator-remont.ru.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/variator-remont.ru" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="0ead0a08-e126-4fec-b894-9061cb83991b" name="variator-rem" url="http://variator-rem.ru.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/variator-rem.ru" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="061194a6-f35c-42cc-94d4-8f407b3c304a" name="cvt-rem.ru" url="http://cvt-rem.ru.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/variator-rem.ru" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="6d1969bf-b755-4bae-9d34-5ff9f3c03ccb" name="CVT" url="http://cvt-rem.ru.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/cvt-rem.ru" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="e33de2c4-87cc-4435-96b8-928c0f3ac8e5" name="moscow-p" url="http://prostitutka-moscow.test.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" accessType="SFTP" password="df9adff2dfc4dfdadffddfe6dfeedffbdfc8dfde" username="user2">
+      <webServer id="cac2e1ef-5787-4e41-b887-1d59f17f18f5" name="avto3" url="http://avto3.ru.tex-test.ru/">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto3" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
