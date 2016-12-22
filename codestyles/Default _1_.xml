@@ -1,9 +1,12 @@
 <code_scheme name="Default (1)">
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
-    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
-    <option name="ALIGN_CLOSING_BRACE_WITH_PROPERTIES" value="true" />
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="BRACE_PLACEMENT" value="1" />
+    <option name="VALUE_ALIGNMENT" value="1" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="SPACE_AFTER_COLON" value="false" />
+    <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
