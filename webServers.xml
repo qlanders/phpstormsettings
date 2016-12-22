@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b88fbf00-a6f0-4f31-985c-cefe4a1366f6" name="cvt-remont" url="http://cvt-rem.ru.tex-test.ru/">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/cvt-rem.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
