@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f4a57dbe-3a3f-40df-b98a-09fc8268e588" name="variator-remont" url="http://85.10.211.147">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/variator-remont.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
