@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="37b1a072-744b-4aef-9ccd-09457dc94e8f" name="variator2" url="http://variator2.ru.tex-test.ru/">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/variator2.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
