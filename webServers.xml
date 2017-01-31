@@ -65,6 +65,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4783ff65-8fbf-4b61-be79-8a0e8f8e4414" name="rusdosug" url="http://test-dosug2.com.tex-test.ru/">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/rusdosug.new" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
