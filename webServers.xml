@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="30d6c9bf-9c91-4e66-a818-9d99372240cf" name="0-main" url="http://85.10.211.147">
+        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
