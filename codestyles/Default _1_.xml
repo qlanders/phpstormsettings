@@ -3,9 +3,11 @@
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
-    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
-    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+    <option name="VALUE_ALIGNMENT" value="1" />
+    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
+    <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
     <option name="ALIGN_CLOSING_BRACE_WITH_PROPERTIES" value="true" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
