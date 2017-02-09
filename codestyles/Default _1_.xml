@@ -3,12 +3,8 @@
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <CssCodeStyleSettings>
-    <option name="HEX_COLOR_LOWER_CASE" value="true" />
-    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
-    <option name="VALUE_ALIGNMENT" value="1" />
-    <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
-    <option name="SPACE_BEFORE_OPENING_BRACE" value="false" />
-    <option name="ALIGN_CLOSING_BRACE_WITH_PROPERTIES" value="true" />
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
@@ -18,6 +14,12 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
