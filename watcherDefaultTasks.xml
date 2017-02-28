@@ -39,14 +39,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile --output-style nested --no-line-comments C:/Users/qlanders/Dropbox/work/study/02.27/www $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile --output-style nested --no-line-comments C:/Users/qlanders/Dropbox/work/edelweiss $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="sass" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass Sass" />
-      <option name="output" value="$USER_HOME$/Dropbox/work/study/02.27/www" />
+      <option name="output" value="$USER_HOME$/Dropbox/work/edelweiss" />
       <option name="outputFilters">
         <array />
       </option>
@@ -54,7 +54,7 @@
       <option name="program" value="C:/Ruby23-x64/bin/compass.bat" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Dropbox/work/study/02.27/www" />
+      <option name="workingDir" value="$USER_HOME$/Dropbox/work/edelweiss" />
       <envs />
     </TaskOptions>
   </component>
