@@ -39,14 +39,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="compile --relative-assets --output-style nested --no-line-comments $ContentRoot$ $UnixSeparators($FilePath$)$" />
+      <option name="arguments" value="compile --relative-assets --output-style nested --no-line-comments $ProjectFileDir$ $UnixSeparators($FilePath$)$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="sass" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass Sass" />
-      <option name="output" value="$ContentRoot$" />
+      <option name="output" value="$ProjectFileDir$" />
       <option name="outputFilters">
         <array />
       </option>
