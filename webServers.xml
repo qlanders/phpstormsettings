@@ -89,6 +89,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b969fb1f-1ae8-4e9f-84c6-289be08a4b77" name="BP" url="http://bp.msk.ru">
+        <fileTransfer host="bp.msk.ru" port="22" rootFolder="/home/v/vkdvi1ei/bp.msk.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
