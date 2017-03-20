@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1747e67f-cdc3-487c-bea4-eb8cab1f3ada" name="Academy" url="http://new.akademiyrsoz.ru">
+        <fileTransfer host="babs.timeweb.ru" port="22" rootFolder="/home/c/cg32280/new.akademiyrsoz.ru/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
