@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="3fb9af5c-41f8-4ec6-b2ce-21d01bff42f8" name="vasiliev" url="http://vasilevtex.ru">
+        <fileTransfer host="37.140.192.120" port="22" rootFolder="/var/www/u0258523/data" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
