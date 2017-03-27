@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="835c3881-c71c-40e4-a75c-4cf9f23f64ef" name="Markvet" url="http://test.markvet.ru">
+        <fileTransfer host="31.177.95.242" port="22" rootFolder="/home/h701122429/test.markvet.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
