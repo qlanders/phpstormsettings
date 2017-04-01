@@ -695,7 +695,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d6d6d6" />
+        <option name="FOREGROUND" value="606060" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1215,7 +1215,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="bc9455" />
+        <option name="FOREGROUND" value="606060" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
