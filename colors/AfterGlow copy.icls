@@ -1,8 +1,8 @@
 <scheme name="AfterGlow copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
@@ -20,7 +20,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -1043,6 +1042,12 @@
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
+    <option name="PHP_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="b4c973" />
+        <option name="BACKGROUND" value="2e2e2e" />
+      </value>
+    </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -1070,9 +1075,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2e2e2e" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="BACKGROUND" value="373737" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
@@ -1084,7 +1087,8 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="d6d6d6" />
-        <option name="BACKGROUND" value="2e2e1e" />
+        <option name="BACKGROUND" value="373737" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR">
