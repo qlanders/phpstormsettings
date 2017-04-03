@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="pug" type="Jade" />
       <mapping ext="pug" type="Native" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
-      <mapping pattern="_sprites.sass" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
     </extensionMap>
