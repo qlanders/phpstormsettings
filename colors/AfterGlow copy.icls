@@ -1076,7 +1076,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="282828" />
+        <option name="BACKGROUND" value="191919" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
@@ -1088,7 +1088,7 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="d6d6d6" />
-        <option name="BACKGROUND" value="282828" />
+        <option name="BACKGROUND" value="191919" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
