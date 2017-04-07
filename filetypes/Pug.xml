@@ -10,7 +10,7 @@
     <keywords ignore_case="false" />
   </highlighting>
   <extensionMap>
-    <mapping ext="jade" />
     <mapping ext="pug" />
+    <mapping ext="jade" />
   </extensionMap>
 </filetype>
