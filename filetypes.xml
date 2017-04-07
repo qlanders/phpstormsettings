@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="pug" approved="true" type="Jade" />
-      <removed_mapping ext="jade" type="Jade" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="test" type="SQL" />
