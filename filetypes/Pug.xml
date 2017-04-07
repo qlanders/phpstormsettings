@@ -11,5 +11,6 @@
   </highlighting>
   <extensionMap>
     <mapping pattern=".pug" />
+    <mapping ext="jade" />
   </extensionMap>
 </filetype>
