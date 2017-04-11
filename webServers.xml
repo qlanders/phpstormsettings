@@ -49,6 +49,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="9c822271-40bb-4e1b-9387-8997487f40c6" name="Iskatel2" url="http://pbsnk.ru">
+        <fileTransfer host="31.177.95.144" port="22" rootFolder="/home/h702210134/pbsnk.ru/docs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
