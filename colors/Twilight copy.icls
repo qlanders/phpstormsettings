@@ -1,5 +1,5 @@
 <scheme name="Twilight copy" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
@@ -414,7 +414,6 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
@@ -479,7 +478,6 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="DEFAULT_INVALID_STRING_ESCAPE" baseAttributes="TEXT" />
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cda869" />
@@ -526,7 +524,6 @@
         <option name="FOREGROUND" value="9b859d" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="7587a6" />
@@ -1066,6 +1063,12 @@
         <option name="FOREGROUND" value="7587a6" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="f8f8f8" />
+        <option name="BACKGROUND" value="202020" />
+      </value>
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="7587a6" />
@@ -1549,7 +1552,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SPY-JS.VALUE_HINT" baseAttributes="TEXT" />
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
