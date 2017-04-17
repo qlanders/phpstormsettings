@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="pug" type="Native" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern="test" type="SQL" />
