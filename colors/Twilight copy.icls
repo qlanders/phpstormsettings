@@ -849,6 +849,9 @@
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
+    <option name="JADE_TEXT">
+      <value />
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
