@@ -57,6 +57,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="75ede3fb-fe62-49b4-ab02-09cea615ccb6" name="MTS-bezlimit" url="http://bezlimit-mts.ru/numbers/">
+        <fileTransfer host="server103.hosting.reg.ru" port="22" rootFolder="/var/www/u0079137/data/www/bezlimit-mts.ru/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
