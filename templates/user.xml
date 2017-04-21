@@ -1,0 +1,15 @@
+<templateSet group="user">
+  <template name="svg" value="svg.svg-$NAME$-dims&#10;  use(xlink:href=&quot;images/sprite.svg#$NAME$&quot;)&#10;  $END$" description="insert svg via symbol" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JADE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO [$USER$] $TEXT$" description="todo comment" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
