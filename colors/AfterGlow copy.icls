@@ -795,6 +795,16 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JADE_EMBEDDED_CONTENT">
+      <value>
+        <option name="BACKGROUND" value="f7faff" />
+      </value>
+    </option>
+    <option name="JADE_TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -1045,7 +1055,7 @@
     <option name="PHP_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="b4c973" />
-        <option name="BACKGROUND" value="2e2e2e" />
+        <option name="BACKGROUND" value="282828" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
@@ -1056,6 +1066,7 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
+        <option name="BACKGROUND" value="282828" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -1075,7 +1086,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="373737" />
+        <option name="BACKGROUND" value="191919" />
       </value>
     </option>
     <option name="PHP_STATIC_FIELD">
@@ -1087,7 +1098,7 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="d6d6d6" />
-        <option name="BACKGROUND" value="373737" />
+        <option name="BACKGROUND" value="191919" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

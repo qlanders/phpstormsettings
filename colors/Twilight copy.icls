@@ -829,6 +829,31 @@
         <option name="FOREGROUND" value="7587a6" />
       </value>
     </option>
+    <option name="JADE_BAD_CHARACTER">
+      <value>
+        <option name="BACKGROUND" value="6e3b3b" />
+      </value>
+    </option>
+    <option name="JADE_COLON">
+      <value />
+    </option>
+    <option name="JADE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5f5a60" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JADE_DOCTYPE">
+      <value>
+        <option name="FOREGROUND" value="cda869" />
+      </value>
+    </option>
+    <option name="JADE_EMBEDDED_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="f85800" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
     <option name="JADE_FILE_PATH">
       <value>
         <option name="FOREGROUND" value="8f9d6a" />
@@ -844,14 +869,49 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
+    <option name="JADE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cda869" />
+      </value>
+    </option>
+    <option name="JADE_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="cf6a4c" />
+      </value>
+    </option>
+    <option name="JADE_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="cda869" />
+      </value>
+    </option>
+    <option name="JADE_PARENTS">
+      <value />
+    </option>
+    <option name="JADE_PIPE">
+      <value />
+    </option>
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
-    <option name="JADE_TEXT">
+    <option name="JADE_TAG_ID">
       <value>
-        <option name="FOREGROUND" value="fffff9" />
+        <option name="FOREGROUND" value="9b703f" />
+      </value>
+    </option>
+    <option name="JADE_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ac885b" />
+      </value>
+    </option>
+    <option name="JADE_TEXT">
+      <value />
+    </option>
+    <option name="JADE_UNBUF_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5f5a60" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -1066,6 +1126,12 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="7587a6" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="f8f8f8" />
+        <option name="BACKGROUND" value="202020" />
       </value>
     </option>
     <option name="PHP_VAR">

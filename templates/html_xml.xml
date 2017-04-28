@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="svg" value="&lt;svg class=&quot;svg-$NAME$&quot;&gt;&#10;    &lt;use xlink:href=&quot;#$NAME$&quot;&gt;&lt;/use&gt;&#10;&lt;/svg&gt;$END$" description="insert svg via symbol" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

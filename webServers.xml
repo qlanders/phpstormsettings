@@ -1,8 +1,64 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cac2e1ef-5787-4e41-b887-1d59f17f18f5" name="avto3" url="http://avto3.ru.tex-test.ru/">
-        <fileTransfer host="85.10.211.147" port="22" rootFolder="/var/www/acat/avto3" accessType="SFTP">
+      <webServer id="b969fb1f-1ae8-4e9f-84c6-289be08a4b77" name="BP" url="http://bp.msk.ru">
+        <fileTransfer host="bp.msk.ru" port="22" rootFolder="/home/v/vkdvi1ei/bp.msk.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7d352387-3fa9-42d6-aa1e-f66f04c00bce" name="local-test" url="http://192.168.1.47">
+        <fileTransfer host="192.168.1.47" port="22" rootFolder="/home/bitrix/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1747e67f-cdc3-487c-bea4-eb8cab1f3ada" name="Academy" url="http://akademiyrsoz.ru">
+        <fileTransfer host="babs.timeweb.ru" port="22" rootFolder="/home/c/cg32280/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3fb9af5c-41f8-4ec6-b2ce-21d01bff42f8" name="vasiliev" url="http://vasilevtex.ru">
+        <fileTransfer host="37.140.192.120" port="22" rootFolder="/var/www/u0258523/data" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="835c3881-c71c-40e4-a75c-4cf9f23f64ef" name="Markvet" url="http://test.markvet.ru">
+        <fileTransfer host="31.177.95.242" port="22" rootFolder="/home/h701122429/test.markvet.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b480097b-71e5-4573-b2d6-ba25d5e777c7" name="AMARU" url="http://amaru.ru">
+        <fileTransfer host="176.57.209.123" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9c822271-40bb-4e1b-9387-8997487f40c6" name="Iskatel2" url="http://pbsnk.ru">
+        <fileTransfer host="31.177.95.144" port="22" rootFolder="/home/h702210134/pbsnk.ru/docs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="75ede3fb-fe62-49b4-ab02-09cea615ccb6" name="MTS-bezlimit" url="http://bezlimit-mts.ru/numbers/">
+        <fileTransfer host="server103.hosting.reg.ru" port="22" rootFolder="/var/www/u0079137/data/www/bezlimit-mts.ru/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

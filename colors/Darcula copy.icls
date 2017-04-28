@@ -4,7 +4,7 @@
     <property name="created">2017-04-01T09:18:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-04-01T09:21:48</property>
+    <property name="modified">2017-04-26T15:12:16</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -12,4 +12,11 @@
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="JADE_EMBEDDED_CONTENT">
+      <value>
+        <option name="BACKGROUND" value="232525" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
