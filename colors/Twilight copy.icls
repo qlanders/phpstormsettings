@@ -834,6 +834,15 @@
         <option name="BACKGROUND" value="6e3b3b" />
       </value>
     </option>
+    <option name="JADE_COLON">
+      <value />
+    </option>
+    <option name="JADE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5f5a60" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JADE_DOCTYPE">
       <value>
         <option name="FOREGROUND" value="cda869" />
