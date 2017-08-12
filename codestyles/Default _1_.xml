@@ -9,9 +9,12 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="1" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -32,8 +35,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="Jade">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -52,7 +54,6 @@
   <codeStyleSettings language="SASS">
     <indentOptions>
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>

@@ -1,4 +1,11 @@
 <application>
+  <component name="CssEmmetOptions">
+    <option name="prefixes">
+      <map>
+        <entry key="accelerator" value="4" />
+      </map>
+    </option>
+  </component>
   <component name="EmmetOptions">
     <option name="filtersEnabledByDefault">
       <set>

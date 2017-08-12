@@ -11,8 +11,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -27,6 +25,21 @@
       <mask>!*.sa</mask>
       <mask>!*.sas</mask>
       <mask>!*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.s</mask>
+      <mask>*.p</mask>
+      <mask>*.pu</mask>
+      <mask>*.pug</mask>
+      <mask>*s</mask>
+      <mask>*sa</mask>
+      <mask>*sas</mask>
+      <mask>*sass</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
       <mask>*.sass</mask>
     </recentFileMasks>
   </component>
