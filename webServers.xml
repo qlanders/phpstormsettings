@@ -2,14 +2,6 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7e26da97-d353-4eee-b8c1-6e2d50f3a22d" name="revcol" url="http://revcol.ru">
-        <fileTransfer host="bitrix272.timeweb.ru" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="9c956714-b1c4-473f-94c1-98deff5eb666" name="revcol" url="http://revcol.ru">
         <fileTransfer host="bitrix272.timeweb.ru" port="22" rootFolder="/home/c/ci62486" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
