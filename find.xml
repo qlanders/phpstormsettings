@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*sass" />
     <recentFileMasks>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -28,10 +28,6 @@
       <mask>*.p</mask>
       <mask>*.pu</mask>
       <mask>*.pug</mask>
-      <mask>*s</mask>
-      <mask>*sa</mask>
-      <mask>*sas</mask>
-      <mask>*sass</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -41,6 +37,10 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*s</mask>
+      <mask>*sa</mask>
+      <mask>*sas</mask>
+      <mask>*sass</mask>
     </recentFileMasks>
   </component>
 </application>
