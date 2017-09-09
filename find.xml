@@ -9,7 +9,6 @@
     <recentFileMasks>
       <mask>!*.sa</mask>
       <mask>!*.sas</mask>
-      <mask>!*.sass</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -33,9 +32,10 @@
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>*.p</mask>
       <mask>*.pu</mask>
+      <mask>!*.sass</mask>
+      <mask>*.sass</mask>
       <mask>*.pug</mask>
     </recentFileMasks>
   </component>
