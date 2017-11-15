@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*pug" />
     <recentFileMasks>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
@@ -23,9 +23,6 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>!*.sass</mask>
-      <mask>*p</mask>
-      <mask>*pu</mask>
-      <mask>*pug</mask>
       <mask>*.pug</mask>
       <mask>*.pu</mask>
       <mask>*.p</mask>
@@ -37,6 +34,9 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*p</mask>
+      <mask>*pu</mask>
+      <mask>*pug</mask>
     </recentFileMasks>
   </component>
 </application>
