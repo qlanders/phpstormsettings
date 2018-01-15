@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
       <mask>*sa</mask>
       <mask>*sas</mask>
@@ -29,16 +29,16 @@
       <mask>*.pu</mask>
       <mask>*.pug</mask>
       <mask>*.ss</mask>
-      <mask>*.sass</mask>
-      <mask>*.sas</mask>
-      <mask>*.sa</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.sty</mask>
+      <mask>*.st</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
