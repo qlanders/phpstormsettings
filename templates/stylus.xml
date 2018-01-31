@@ -2,7 +2,7 @@
   <template name="links" value="&amp;&#10;&amp;:link&#10;&amp;:visited&#10;    $NAME$&#10;&amp;:hover&#10;&amp;:active&#10;    $END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CSS" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
 </templateSet>
