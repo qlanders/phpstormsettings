@@ -3,17 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styl" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*sa</mask>
-      <mask>*sas</mask>
-      <mask>*sass</mask>
       <mask>*sss</mask>
       <mask>*ss</mask>
       <mask>*css</mask>
@@ -24,16 +19,12 @@
       <mask>*pu</mask>
       <mask>*pug</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.pu</mask>
-      <mask>*.pug</mask>
       <mask>*.ss</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
@@ -41,6 +32,13 @@
       <mask>*.st</mask>
       <mask>*.sty</mask>
       <mask>*.styl</mask>
+      <mask>*.pug</mask>
+      <mask>*.pu</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
