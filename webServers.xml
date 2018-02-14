@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2931ee1f-e3b6-4766-a1b2-4b2d3cee51cb" name="domix" url="http://test.domixdom.ru/">
+        <fileTransfer host="92.53.122.14" port="22" rootFolder="/home/d/domixdom" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
