@@ -66,7 +66,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="styl" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="Stylus" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
@@ -86,7 +86,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="jade" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="Pug/Jade" />
       <option name="output" value="$FileNameWithoutExtension$.html" />
       <option name="outputFilters">
