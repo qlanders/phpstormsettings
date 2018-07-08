@@ -4,7 +4,19 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/pug" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/stylus" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/yandex-maps" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
