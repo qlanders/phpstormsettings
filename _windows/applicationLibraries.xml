@@ -1,18 +1,14 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jade" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/node" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/npm" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/pug" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/react" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
