@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitattributes" type="JSON" />
+      <mapping pattern="info-list" type="PHP" />
+      <mapping pattern="info-block" type="PHP" />
+      <mapping pattern="test" type="SQL" />
+      <mapping pattern="_vareables" type="Sass" />
+    </extensionMap>
+  </component>
+</application>
