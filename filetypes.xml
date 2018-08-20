@@ -4,6 +4,7 @@
       <mapping pattern=".gitattributes" type="JSON" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
     </extensionMap>
