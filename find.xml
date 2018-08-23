@@ -17,5 +17,6 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.pug</mask>
   </component>
 </application>
