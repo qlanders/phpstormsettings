@@ -3,4 +3,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
+  <component name="EditorSettings">
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
 </application>
