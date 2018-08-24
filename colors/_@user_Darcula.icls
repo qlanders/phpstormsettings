@@ -4,9 +4,21 @@
     <property name="created">2018-08-23T22:26:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-08-23T22:31:45</property>
+    <property name="modified">2018-08-24T13:08:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Meslo LG M DZ for Powerline" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
 </scheme>
