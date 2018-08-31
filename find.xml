@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -18,5 +17,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.pug</mask>
+    <mask>*.html</mask>
   </component>
 </application>
