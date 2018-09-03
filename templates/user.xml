@@ -27,4 +27,9 @@
       <option name="JADE" value="true" />
     </context>
   </template>
+  <template name="cl" value="console.log($END$);" description="console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
