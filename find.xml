@@ -18,5 +18,6 @@
     <mask>*.php</mask>
     <mask>*.pug</mask>
     <mask>*.js</mask>
+    <mask>*.jade</mask>
   </component>
 </application>
