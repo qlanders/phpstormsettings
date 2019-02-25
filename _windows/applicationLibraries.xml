@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/gulp" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jade" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -21,6 +25,10 @@
       <SOURCES />
     </library>
     <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-test-renderer" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
