@@ -5,6 +5,7 @@
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
     </extensionMap>
