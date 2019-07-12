@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitattributes" type="JSON" />
+      <mapping pattern=".editorconfig" type="Native" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
