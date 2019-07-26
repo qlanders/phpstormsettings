@@ -12,12 +12,14 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.html</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.jade</mask>
-    <mask>*.styl</mask>
+    <mask>*.jsx</mask>
     <mask>*.sass</mask>
+    <mask>*.js</mask>
+    <mask>*.styl</mask>
+    <mask>*.scss</mask>
+    <mask>*.html</mask>
     <mask>*.pug</mask>
   </component>
 </application>
