@@ -1,9 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="616161" />
-    <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="50" />
+    <option name="accentColor" value="616161" />
+    <option name="userId" value="6851ae9c:16c2f762260:-7fff" />
+    <option name="version" value="4.2" />
   </component>
 </application>
