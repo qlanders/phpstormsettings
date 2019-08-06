@@ -7,9 +7,9 @@
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
