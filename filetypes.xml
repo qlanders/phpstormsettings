@@ -4,8 +4,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitattributes" type="JSON" />
-      <mapping pattern="info-block" type="PHP" />
       <mapping pattern="info-list" type="PHP" />
+      <mapping pattern="info-block" type="PHP" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
