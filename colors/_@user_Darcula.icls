@@ -1,34 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-08-23T22:26:45</property>
+    <property name="created">2019-09-02T08:50:11</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2019-08-28T09:40:07</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-09-03T08:39:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="0.8" />
-  <colors>
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-  </colors>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
 </scheme>
