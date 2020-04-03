@@ -1,0 +1,44 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/angular" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/gulp" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jade" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/pug" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/react-test-renderer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/stylus" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/webpack" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
