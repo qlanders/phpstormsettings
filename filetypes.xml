@@ -4,12 +4,12 @@
       <mapping pattern=".gitattributes" type="JSON" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
+      <mapping pattern="arr-to-right.svg" type="PLAIN_TEXT" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitattrebutes" type="PLAIN_TEXT" />
-      <mapping pattern="arr-to-right.svg" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
