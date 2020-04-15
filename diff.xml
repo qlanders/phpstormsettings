@@ -10,7 +10,9 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
