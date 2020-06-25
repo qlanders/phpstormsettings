@@ -2,12 +2,6 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="Graph.ActualSize">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-  </action>
-  <action id="Images.Editor.ActualSize">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
