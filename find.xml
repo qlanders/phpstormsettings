@@ -18,12 +18,12 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.jsx</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.styl</mask>
     <mask>*.tsx</mask>
     <mask>*.sass</mask>
     <mask>*.graphql</mask>
     <mask>*.pug</mask>
+    <mask>*.js</mask>
   </component>
 </application>
