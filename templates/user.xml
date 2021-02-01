@@ -48,4 +48,11 @@
       <option name="CSS_PROPERTY_VALUE" value="true" />
     </context>
   </template>
+  <template name="sci" value="const $1$ = styled.$2$`&#10;    $END$&#10;`;" description="styled components init" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
