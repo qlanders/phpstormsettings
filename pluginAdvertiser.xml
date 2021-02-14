@@ -172,9 +172,8 @@
         <entry key="*.conf">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
@@ -887,6 +886,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -963,6 +970,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.nginx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
@@ -1966,6 +1981,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="nginx.conf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="dev.meanmail.plugin.nginx-intellij-plugin" />
+              <option name="myPluginName" value="Nginx Configuration" />
             </plugin>
           </value>
         </entry>
