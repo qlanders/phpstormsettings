@@ -5,10 +5,9 @@
       <option name="JADE" value="true" />
     </context>
   </template>
-  <template name="todo" value="// TODO [$USER$] $DATE$ $TEXT$" description="todo comment" toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="// TODO [$USER$] $DATE$ $END$" description="todo comment" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
-    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
