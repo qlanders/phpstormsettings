@@ -4,11 +4,14 @@
     <property name="created">2019-09-02T08:50:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2020-10-08T14:31:40</property>
+    <property name="modified">2021-02-24T17:03:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <colors>
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+  </colors>
 </scheme>
