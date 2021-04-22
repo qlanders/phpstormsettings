@@ -14,7 +14,7 @@
                   </entry>
                   <entry key="CodeceptionConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" />
+                      <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ComposerRunConfigurationType">
@@ -79,7 +79,7 @@
                   </entry>
                   <entry key="PhpBehatConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" />
+                      <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" bundled="true" />
                     </value>
                   </entry>
                   <entry key="PhpBuiltInWebServerConfigurationType">
@@ -104,7 +104,7 @@
                   </entry>
                   <entry key="PhpSpecConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" />
+                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" bundled="true" />
                     </value>
                   </entry>
                   <entry key="PhpWebAppRunConfigurationType">
@@ -144,7 +144,7 @@
                   </entry>
                   <entry key="docker-deploy">
                     <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
