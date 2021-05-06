@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern=".gitattributes" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern="schema" type="PLAIN_TEXT" />
