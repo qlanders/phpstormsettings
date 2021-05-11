@@ -162,6 +162,11 @@
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="js.build_tools.nx">
+                    <value>
+                      <FeaturePluginData displayName="Nx" pluginName="Nx Console Idea" pluginId="com.github.iguissouma.nxconsole" />
+                    </value>
+                  </entry>
                   <entry key="mocha-javascript-test-runner">
                     <value>
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
