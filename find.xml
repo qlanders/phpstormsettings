@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.graphql" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +18,6 @@
     <mask>*.jade</mask>
     <mask>*.jsx</mask>
     <mask>*.html</mask>
-    <mask>*.tsx</mask>
     <mask>*.sass</mask>
     <mask>*.pug</mask>
     <mask>*.js</mask>
@@ -26,5 +25,6 @@
     <mask>*.styl</mask>
     <mask>*.scss</mask>
     <mask>*.graphql</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
