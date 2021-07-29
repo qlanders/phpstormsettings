@@ -15,7 +15,6 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.jade</mask>
-    <mask>*.jsx</mask>
     <mask>*.html</mask>
     <mask>*.sass</mask>
     <mask>*.pug</mask>
@@ -24,6 +23,7 @@
     <mask>*.styl</mask>
     <mask>*.scss</mask>
     <mask>*.graphql</mask>
+    <mask>*.jsx</mask>
     <mask>*.tsx</mask>
   </component>
 </application>
