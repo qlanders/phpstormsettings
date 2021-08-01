@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,9 +20,9 @@
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.styl</mask>
-    <mask>*.scss</mask>
     <mask>*.graphql</mask>
     <mask>*.jsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
