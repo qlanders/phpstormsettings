@@ -3,14 +3,12 @@
     <extensionMap>
       <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern=".gitattributes" type="JSON" />
-      <mapping ext="graphqlconfig" type="JSON" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
-      <mapping pattern="info-list" type="PHP" />
       <mapping pattern="info-block" type="PHP" />
-      <mapping pattern="schema" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattrebutes" type="PLAIN_TEXT" />
-      <mapping pattern="description" type="PLAIN_TEXT" />
+      <mapping pattern="info-list" type="PHP" />
       <mapping pattern="arr-to-right.svg" type="PLAIN_TEXT" />
+      <mapping pattern="schema" type="PLAIN_TEXT" />
+      <mapping pattern="description" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattrebutes" type="PLAIN_TEXT" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping pattern="test" type="SQL" />
