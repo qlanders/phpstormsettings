@@ -60,4 +60,10 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="tpb" value="type=&quot;button&quot; $END$" description="type button" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
