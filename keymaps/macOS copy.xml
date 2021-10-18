@@ -1,10 +1,8 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="EditorToggleShowWhitespaces">
-    <keyboard-shortcut first-keystroke="shift w" />
-  </action>
+  <action id="EditorContextInfo" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>

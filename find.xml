@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -15,13 +13,15 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.jade</mask>
-    <mask>*.scss</mask>
-    <mask>*.css</mask>
-    <mask>*.jsx</mask>
-    <mask>*.sass</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
-    <mask>*.styl</mask>
+    <mask>*.sass</mask>
     <mask>*.pug</mask>
+    <mask>*.css</mask>
+    <mask>*.graphql</mask>
+    <mask>*.jsx</mask>
+    <mask>*.scss</mask>
+    <mask>*.tsx</mask>
+    <mask>*.styl</mask>
+    <mask>*.js</mask>
   </component>
 </application>

@@ -4,13 +4,13 @@
       <entry key="CommitDialog">
         <PlaceSettings />
       </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
+      <entry key="VcsFileHistoryView">
+        <PlaceSettings />
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
