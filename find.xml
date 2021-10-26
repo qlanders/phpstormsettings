@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -16,7 +16,6 @@
     <mask>*.graphql</mask>
     <mask>*.jsx</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
@@ -31,5 +30,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
