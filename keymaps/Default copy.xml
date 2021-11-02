@@ -2,9 +2,6 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="EditorToggleShowWhitespaces">
-    <keyboard-shortcut first-keystroke="shift w" />
-  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
