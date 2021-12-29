@@ -14,9 +14,13 @@
           <option name="url" value="http://192.168.8.33.nip.io" />
           <option name="userName" value="dimaq" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:qlanders/b3w-pp-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\qlanders\Dropbox\DiViER\0-SITES" />
+    <option name="cloneParentDir" value="$USER_HOME$/works" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
