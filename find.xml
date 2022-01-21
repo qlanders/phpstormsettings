@@ -13,10 +13,8 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.jade</mask>
-    <mask>*.pug</mask>
     <mask>*.graphql</mask>
     <mask>*.scss</mask>
-    <mask>*.styl</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
     <mask>*.jsx</mask>
@@ -32,5 +30,8 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
+    <mask>*.pug</mask>
+    <mask>*.styl</mask>
   </component>
 </application>
