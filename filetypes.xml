@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern="schema" type="AUTO_DETECTED" />
       <mapping pattern="description" type="AUTO_DETECTED" />
-      <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern=".gitattributes" type="JSON" />
       <mapping pattern="info-block" type="PHP" />
       <mapping pattern="info-list" type="PHP" />
