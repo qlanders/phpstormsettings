@@ -73,4 +73,11 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="rsv" value="import React from 'react';&#10;import styled from 'styled-components/macro';&#10;import breakpoints from '../../themes/constants/breakpoints';&#10;&#10;export interface I$1$ {&#10;  className: string&#10;}&#10;&#10;function $1$({ className }: I$1$) {&#10;  return (&#10;    &lt;div&gt;$1$&lt;/div&gt;&#10;  );&#10;}&#10;&#10;$1$.defaultProps = {&#10;  className: '',&#10;};&#10;&#10;export default $1$;&#10;" description="react component" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
