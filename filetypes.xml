@@ -1,16 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern="schema" type="AUTO_DETECTED" />
       <mapping pattern="description" type="AUTO_DETECTED" />
+      <mapping pattern="monitoring" type="AUTO_DETECTED" />
       <mapping pattern=".gitattributes" type="JSON" />
-      <mapping pattern="info-block" type="PHP" />
-      <mapping pattern="info-list" type="PHP" />
       <mapping pattern="arr-to-right.svg" type="PLAIN_TEXT" />
       <mapping pattern=".gitattrebutes" type="PLAIN_TEXT" />
       <mapping pattern=".eslintconfig" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="SQL" />
       <mapping pattern="_vareables" type="Sass" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -21,6 +18,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="info-block" type="PHP" />
+      <mapping pattern="info-list" type="PHP" />
+      <mapping pattern="test" type="SQL" />
     </extensionMap>
   </component>
 </application>
