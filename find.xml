@@ -16,7 +16,6 @@
     <mask>*.js</mask>
     <mask>*.sass</mask>
     <mask>*.jsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -31,5 +30,6 @@
     <mask>*.ts</mask>
     <mask>*.pug</mask>
     <mask>*.styl</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
