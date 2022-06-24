@@ -15,7 +15,6 @@
     <mask>*.jade</mask>
     <mask>*.graphql</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.sass</mask>
     <mask>*.jsx</mask>
     <mask>*.css</mask>
@@ -33,5 +32,6 @@
     <mask>*.pug</mask>
     <mask>*.styl</mask>
     <mask>*.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
