@@ -34,8 +34,8 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.pug</mask>
+    <mask>*.styl</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
-    <mask>*.styl</mask>
   </component>
 </application>
