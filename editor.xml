@@ -3,7 +3,7 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
